@@ -1,7 +1,7 @@
 //! State transition types
 
 
-//! A multisig wallet program for the Solana blockchain Designed by Mohammadreza Ashouri / ashourics@gmail.com
+//! A multisig wallet program for the Solana blockchain Designed by Luiz Carvalho / luizcarvalhohen@gmail.com
 
 
 use crate::utils::{read_instruction, write_instruction, write_pubkey, write_u16};
